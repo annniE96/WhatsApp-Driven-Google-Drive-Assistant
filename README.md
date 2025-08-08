@@ -27,8 +27,8 @@ To run this workflow, you will need:
 Get the project files onto your local machine:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/whatsapp-gdrive-assistant.git
-cd whatsapp-gdrive-assistant
+git clone https://github.com/annniE96/WhatsApp-Driven-Google-Drive-Assistant.git
+cd WhatsApp-Driven-Google-Drive-Assistant
 ```
 
 ### 2. Configure Credentials
